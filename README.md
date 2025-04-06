@@ -4,16 +4,6 @@
 
 This is a Fitness Tracker built using MERN stack. It facilitates one to add users and record their date and duration of performing particular fitness activity.Activity can also be deleted. This web application is built using MongoDB,Express,Nodejs,React and Material UI. Images used in this application are being taken from [Unsplash website](https://unsplash.com).
 
-## Demo
-
-👉 [Link](https://serene-volhard-1843cb.netlify.app/)
-
-Backend Heroku Link-https://fitness-tracker-mern.herokuapp.com/
-
-[Users](https://fitness-tracker-mern.herokuapp.com/users)
-
-[Exercises](https://fitness-tracker-mern.herokuapp.com/exercises)
-
 ## Screenshots
 
 Homepage
@@ -37,7 +27,7 @@ Step 1
 🍴 Fork this repo!
 
 Step 2
-👯 Clone this repo to your local machine using https://github.com/kritika27/fitness-tracker-mern-stack-app.git
+👯 Clone this repo to your local machine using https://github.com/shardwiz/fitness-tracker-mern-stack-app.git
 
 Step 3
 HACK AWAY! 🔨🔨🔨
